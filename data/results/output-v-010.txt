@@ -1,0 +1,1007 @@
+Running soc-academia.txt-vuln-0.1-file with p=0.10, k=2002, max_iter=12, N=200167, func=highdegree and filling=fillToKVulnerable
+Average runtime over 12 iterations is: 40,45s
+Starting goodness: 3806392685,00
+Best goodness: 3514693978,00
+Worst goodness: 3721456377,00
+Average goodness: 3624424202,00
+Median goodness: 3616573101,00
+
+Running soc-academia.txt-vuln-0.1-file with p=0.10, k=4004, max_iter=12, N=200167, func=highdegree and filling=fillToKVulnerable
+Average runtime over 12 iterations is: 40,75s
+Starting goodness: 3806392685,00
+Best goodness: 3314491094,00
+Worst goodness: 3721456377,00
+Average goodness: 3549024468,10
+Median goodness: 3581675705,50
+
+Running soc-academia.txt-vuln-0.1-file with p=0.10, k=10009, max_iter=12, N=200167, func=highdegree and filling=fillToKVulnerable
+Average runtime over 12 iterations is: 50,75s
+Starting goodness: 3806392685,00
+Best goodness: 2849887858,00 
+Worst goodness: 3721456377,00
+Average goodness: 3404322849,96
+Median goodness: 3480224604,00
+
+Running soc-academia.txt-vuln-0.1-file with p=0.10, k=2002, max_iter=12, N=200167, func=vuln and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 47,94s
+Starting goodness: 3806392685,00
+Best goodness: 3390587965,00
+Worst goodness: 3397366396,00
+Average goodness: 3393797070,50
+Median goodness: 3393518355,00
+
+Running soc-academia.txt-vuln-0.1-file with p=0.10, k=4004, max_iter=12, N=200167, func=vuln and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 50,77s
+Starting goodness: 3806392685,00
+Best goodness: 2983681058,00
+Worst goodness: 3397366396,00
+Average goodness: 3190902200,71
+Median goodness: 3190824236,00
+
+Running soc-academia.txt-vuln-0.1-file with p=0.10, k=10009, max_iter=12, N=200167, func=vuln and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 56,84s
+Starting goodness: 3806392685,00
+Best goodness: 1813130577,00
+Worst goodness: 3397366396,00
+Average goodness: 2732393833,39
+Median goodness: 2990483381,00
+
+Running soc-academia.txt-vuln-0.1-file with p=0.10, k=2002, max_iter=12, N=200167, func=neigh and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 44,47s
+Starting goodness: 3806392685,00
+Best goodness: 3589262313,00
+Worst goodness: 3632494772,00
+Average goodness: 3607933753,46
+Median goodness: 3606041017,00
+
+Running soc-academia.txt-vuln-0.1-file with p=0.10, k=4004, max_iter=12, N=200167, func=neigh and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 43,03s
+Starting goodness: 3806392685,00
+Best goodness: 3411255898,00
+Worst goodness: 3632494772,00
+Average goodness: 3522603589,90
+Median goodness: 3514425160,00
+
+Running soc-academia.txt-vuln-0.1-file with p=0.10, k=10009, max_iter=12, N=200167, func=neigh and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 57,63s
+Starting goodness: 3806392685,00
+Best goodness: 2989514146,00
+Worst goodness: 3632494772,00
+Average goodness: 3351970381,38
+Median goodness: 3439734292,50
+
+Running soc-academia.txt-vuln-0.1-file with p=0.10, k=2002, max_iter=12, N=200167, func=random and filling=fillToKRandom
+Average runtime over 12 iterations is: 52,21s
+Starting goodness: 3806392685,00
+Best goodness: 3513772362,00
+Worst goodness: 3720369251,00
+Average goodness: 3621349563,21
+Median goodness: 3629978797,50
+
+Running soc-academia.txt-vuln-0.1-file with p=0.10, k=4004, max_iter=12, N=200167, func=random and filling=fillToKRandom
+Average runtime over 12 iterations is: 53,14s
+Starting goodness: 3806392685,00
+Best goodness: 3306729275,00
+Worst goodness: 3720369251,00
+Average goodness: 3548219856,50
+Median goodness: 3574658849,00
+
+Running soc-academia.txt-vuln-0.1-file with p=0.10, k=10009, max_iter=12, N=200167, func=random and filling=fillToKRandom
+Average runtime over 12 iterations is: 62,47s
+Starting goodness: 3806392685,00
+Best goodness: 2854520282,00
+Worst goodness: 3720369251,00
+Average goodness: 3404634291,50
+Median goodness: 3463507918,50
+
+Running soc-advogato.txt-vuln-0.1-file with p=0.10, k=53, max_iter=8, N=5207, func=highdegree and filling=fillToKVulnerable
+Average runtime over 8 iterations is: 0,15s
+Starting goodness: 2469951,00
+Best goodness: 2231822,00
+Worst goodness: 2427147,00
+Average goodness: 2337555,75
+Median goodness: 2338545,50
+
+Running soc-advogato.txt-vuln-0.1-file with p=0.10, k=105, max_iter=8, N=5207, func=highdegree and filling=fillToKVulnerable
+Average runtime over 8 iterations is: 0,16s
+Starting goodness: 2469951,00
+Best goodness: 2077989,00
+Worst goodness: 2427147,00
+Average goodness: 2293955,38
+Median goodness: 2314967,50
+
+Running soc-advogato.txt-vuln-0.1-file with p=0.10, k=261, max_iter=8, N=5207, func=highdegree and filling=fillToKVulnerable
+Average runtime over 8 iterations is: 0,16s
+Starting goodness: 2469951,00
+Best goodness: 1810397,00
+Worst goodness: 2427147,00
+Average goodness: 2201537,48
+Median goodness: 2252886,50
+
+Running soc-advogato.txt-vuln-0.1-file with p=0.10, k=53, max_iter=8, N=5207, func=vuln and filling=fillToKHighDegree
+Average runtime over 8 iterations is: 0,13s
+Starting goodness: 2469951,00
+Best goodness: 2231430,00
+Worst goodness: 2283178,00
+Average goodness: 2253193,19
+Median goodness: 2269462,00
+
+Running soc-advogato.txt-vuln-0.1-file with p=0.10, k=105, max_iter=8, N=5207, func=vuln and filling=fillToKHighDegree
+Average runtime over 8 iterations is: 0,12s
+Starting goodness: 2469951,00
+Best goodness: 2016479,00
+Worst goodness: 2283178,00
+Average goodness: 2149906,94
+Median goodness: 2148572,00
+
+Running soc-advogato.txt-vuln-0.1-file with p=0.10, k=261, max_iter=8, N=5207, func=vuln and filling=fillToKHighDegree
+Average runtime over 8 iterations is: 0,15s
+Starting goodness: 2469951,00
+Best goodness: 1414976,00
+Worst goodness: 2283178,00
+Average goodness: 1912555,38
+Median goodness: 2026905,00
+
+Running soc-advogato.txt-vuln-0.1-file with p=0.10, k=53, max_iter=8, N=5207, func=neigh and filling=fillToKHighDegree
+Average runtime over 8 iterations is: 0,12s
+Starting goodness: 2469951,00
+Best goodness: 2269446,00
+Worst goodness: 2375111,00
+Average goodness: 2317408,31
+Median goodness: 2298117,00
+
+Running soc-advogato.txt-vuln-0.1-file with p=0.10, k=105, max_iter=8, N=5207, func=neigh and filling=fillToKHighDegree
+Average runtime over 8 iterations is: 0,13s
+Starting goodness: 2469951,00
+Best goodness: 2143688,00
+Worst goodness: 2375111,00
+Average goodness: 2258087,31
+Median goodness: 2266709,00
+
+Running soc-advogato.txt-vuln-0.1-file with p=0.10, k=261, max_iter=8, N=5207, func=neigh and filling=fillToKHighDegree
+Average runtime over 8 iterations is: 0,14s
+Starting goodness: 2469951,00
+Best goodness: 1832667,00
+Worst goodness: 2375111,00
+Average goodness: 2131512,23
+Median goodness: 2205246,00
+
+Running soc-advogato.txt-vuln-0.1-file with p=0.10, k=53, max_iter=8, N=5207, func=random and filling=fillToKRandom
+Average runtime over 8 iterations is: 0,13s
+Starting goodness: 2469951,00
+Best goodness: 2226022,00
+Worst goodness: 2424195,00
+Average goodness: 2338172,13
+Median goodness: 2321334,00
+
+Running soc-advogato.txt-vuln-0.1-file with p=0.10, k=105, max_iter=8, N=5207, func=random and filling=fillToKRandom
+Average runtime over 8 iterations is: 0,12s
+Starting goodness: 2469951,00
+Best goodness: 2112251,00
+Worst goodness: 2424195,00
+Average goodness: 2287598,00
+Median goodness: 2302075,50
+
+Running soc-advogato.txt-vuln-0.1-file with p=0.10, k=261, max_iter=8, N=5207, func=random and filling=fillToKRandom
+Average runtime over 8 iterations is: 0,14s
+Starting goodness: 2469951,00
+Best goodness: 1789175,00
+Worst goodness: 2424195,00
+Average goodness: 2199934,96
+Median goodness: 2237161,50
+
+Running soc-anybeat.txt-vuln-0.1-file with p=0.10, k=127, max_iter=9, N=12645, func=highdegree and filling=fillToKVulnerable
+Average runtime over 9 iterations is: 0,35s
+Starting goodness: 15195179,00
+Best goodness: 5410953,00
+Worst goodness: 14936862,00
+Average goodness: 10344431,83
+Median goodness: 10387130,00
+
+Running soc-anybeat.txt-vuln-0.1-file with p=0.10, k=253, max_iter=9, N=12645, func=highdegree and filling=fillToKVulnerable
+Average runtime over 9 iterations is: 0,41s
+Starting goodness: 15195179,00
+Best goodness: 4822705,00
+Worst goodness: 14936862,00
+Average goodness: 10039946,31
+Median goodness: 9923450,50
+
+Running soc-anybeat.txt-vuln-0.1-file with p=0.10, k=633, max_iter=9, N=12645, func=highdegree and filling=fillToKVulnerable
+Average runtime over 9 iterations is: 0,62s
+Starting goodness: 15195179,00
+Best goodness: 3490358,00
+Worst goodness: 14936862,00
+Average goodness: 9489208,31
+Median goodness: 9813427,00
+
+Running soc-anybeat.txt-vuln-0.1-file with p=0.10, k=127, max_iter=9, N=12645, func=vuln and filling=fillToKHighDegree
+Average runtime over 9 iterations is: 0,36s
+Starting goodness: 15195179,00
+Best goodness: 5490756,00
+Worst goodness: 13583736,00
+Average goodness: 9714842,56
+Median goodness: 9606379,00
+
+Running soc-anybeat.txt-vuln-0.1-file with p=0.10, k=253, max_iter=9, N=12645, func=vuln and filling=fillToKHighDegree
+Average runtime over 9 iterations is: 0,41s
+Starting goodness: 15195179,00
+Best goodness: 4427534,00
+Worst goodness: 13583736,00
+Average goodness: 9053259,72
+Median goodness: 8945771,00
+
+Running soc-anybeat.txt-vuln-0.1-file with p=0.10, k=633, max_iter=9, N=12645, func=vuln and filling=fillToKHighDegree
+Average runtime over 9 iterations is: 0,44s
+Starting goodness: 15195179,00
+Best goodness: 3064323,00
+Worst goodness: 13583736,00
+Average goodness: 7770658,70
+Median goodness: 8411338,00
+
+Running soc-anybeat.txt-vuln-0.1-file with p=0.10, k=127, max_iter=9, N=12645, func=neigh and filling=fillToKHighDegree
+Average runtime over 9 iterations is: 0,34s
+Starting goodness: 15195179,00
+Best goodness: 5816258,00
+Worst goodness: 7974481,00
+Average goodness: 6485512,72
+Median goodness: 6449907,50
+
+Running soc-anybeat.txt-vuln-0.1-file with p=0.10, k=253, max_iter=9, N=12645, func=neigh and filling=fillToKHighDegree
+Average runtime over 9 iterations is: 0,39s
+Starting goodness: 15195179,00
+Best goodness: 4711416,00
+Worst goodness: 7974481,00
+Average goodness: 5851808,22
+Median goodness: 5619199,50
+
+Running soc-anybeat.txt-vuln-0.1-file with p=0.10, k=633, max_iter=9, N=12645, func=neigh and filling=fillToKHighDegree
+Average runtime over 9 iterations is: 0,57s
+Starting goodness: 15195179,00
+Best goodness: 3161321,00
+Worst goodness: 7974481,00
+Average goodness: 5036401,17
+Median goodness: 5531404,50
+
+Running soc-anybeat.txt-vuln-0.1-file with p=0.10, k=127, max_iter=9, N=12645, func=random and filling=fillToKRandom
+Average runtime over 9 iterations is: 0,38s
+Starting goodness: 15195179,00
+Best goodness: 5509416,00
+Worst goodness: 14861865,00
+Average goodness: 10362460,72
+Median goodness: 10708373,50
+
+Running soc-anybeat.txt-vuln-0.1-file with p=0.10, k=253, max_iter=9, N=12645, func=random and filling=fillToKRandom
+Average runtime over 9 iterations is: 0,42s
+Starting goodness: 15195179,00
+Best goodness: 4758060,00
+Worst goodness: 14861865,00
+Average goodness: 9978509,31
+Median goodness: 9670926,50
+
+Running soc-anybeat.txt-vuln-0.1-file with p=0.10, k=633, max_iter=9, N=12645, func=random and filling=fillToKRandom
+Average runtime over 9 iterations is: 0,45s
+Starting goodness: 15195179,00
+Best goodness: 3451174,00
+Worst goodness: 14861865,00
+Average goodness: 9493412,52
+Median goodness: 9335525,50
+
+Running soc-brightkite.txt-vuln-0.1-file with p=0.10, k=568, max_iter=10, N=56739, func=highdegree and filling=fillToKVulnerable
+Average runtime over 10 iterations is: 3,99s
+Starting goodness: 305837110,00
+Best goodness: 275421315,00
+Worst goodness: 297816177,00
+Average goodness: 287850916,05
+Median goodness: 286347441,00
+
+Running soc-brightkite.txt-vuln-0.1-file with p=0.10, k=1135, max_iter=10, N=56739, func=highdegree and filling=fillToKVulnerable
+Average runtime over 10 iterations is: 4,07s
+Starting goodness: 305837110,00
+Best goodness: 255558498,00
+Worst goodness: 297816177,00
+Average goodness: 280514000,98
+Median goodness: 283368326,00
+
+Running soc-brightkite.txt-vuln-0.1-file with p=0.10, k=2837, max_iter=10, N=56739, func=highdegree and filling=fillToKVulnerable
+Average runtime over 10 iterations is: 4,67s
+Starting goodness: 305837110,00
+Best goodness: 206878101,00
+Worst goodness: 297816177,00
+Average goodness: 265754824,30
+Median goodness: 273419668,00
+
+Running soc-brightkite.txt-vuln-0.1-file with p=0.10, k=568, max_iter=10, N=56739, func=vuln and filling=fillToKHighDegree
+Average runtime over 10 iterations is: 3,65s
+Starting goodness: 305837110,00
+Best goodness: 266966417,00
+Worst goodness: 271757707,00
+Average goodness: 270333637,55
+Median goodness: 270184255,50
+
+Running soc-brightkite.txt-vuln-0.1-file with p=0.10, k=1135, max_iter=10, N=56739, func=vuln and filling=fillToKHighDegree
+Average runtime over 10 iterations is: 3,57s
+Starting goodness: 305837110,00
+Best goodness: 236791300,00
+Worst goodness: 271757707,00
+Average goodness: 253748191,55
+Median goodness: 252661500,50
+
+Running soc-brightkite.txt-vuln-0.1-file with p=0.10, k=2837, max_iter=10, N=56739, func=vuln and filling=fillToKHighDegree
+Average runtime over 10 iterations is: 4,04s
+Starting goodness: 305837110,00
+Best goodness: 140553384,00
+Worst goodness: 271757707,00
+Average goodness: 216388679,03
+Median goodness: 237305691,00
+
+Running soc-brightkite.txt-vuln-0.1-file with p=0.10, k=568, max_iter=10, N=56739, func=neigh and filling=fillToKHighDegree
+Average runtime over 10 iterations is: 4,30s
+Starting goodness: 305837110,00
+Best goodness: 276012046,00
+Worst goodness: 283772260,00
+Average goodness: 279976515,75
+Median goodness: 280177127,00
+
+Running soc-brightkite.txt-vuln-0.1-file with p=0.10, k=1135, max_iter=10, N=56739, func=neigh and filling=fillToKHighDegree
+Average runtime over 10 iterations is: 4,08s
+Starting goodness: 305837110,00
+Best goodness: 256295526,00
+Worst goodness: 283772260,00
+Average goodness: 269760091,58
+Median goodness: 270155363,00
+
+Running soc-brightkite.txt-vuln-0.1-file with p=0.10, k=2837, max_iter=10, N=56739, func=neigh and filling=fillToKHighDegree
+Average runtime over 10 iterations is: 4,74s
+Starting goodness: 305837110,00
+Best goodness: 208828771,00
+Worst goodness: 283772260,00
+Average goodness: 250330559,93
+Median goodness: 262012343,00
+
+Running soc-brightkite.txt-vuln-0.1-file with p=0.10, k=568, max_iter=10, N=56739, func=random and filling=fillToKRandom
+Average runtime over 10 iterations is: 3,44s
+Starting goodness: 305837110,00
+Best goodness: 276029571,00
+Worst goodness: 297726108,00
+Average goodness: 287626098,70
+Median goodness: 288878227,00
+
+Running soc-brightkite.txt-vuln-0.1-file with p=0.10, k=1135, max_iter=10, N=56739, func=random and filling=fillToKRandom
+Average runtime over 10 iterations is: 3,61s
+Starting goodness: 305837110,00
+Best goodness: 255842972,00
+Worst goodness: 297726108,00
+Average goodness: 280518050,43
+Median goodness: 283745871,50
+
+Running soc-brightkite.txt-vuln-0.1-file with p=0.10, k=2837, max_iter=10, N=56739, func=random and filling=fillToKRandom
+Average runtime over 10 iterations is: 4,18s
+Starting goodness: 305837110,00
+Best goodness: 207191821,00
+Worst goodness: 297726108,00
+Average goodness: 265619967,50
+Median goodness: 274030160,00
+
+Running soc-buzznet.txt-vuln-0.1-file with p=0.10, k=1012, max_iter=11, N=101163, func=highdegree and filling=fillToKVulnerable
+Average runtime over 11 iterations is: 31,95s
+Starting goodness: 972284167,00
+Best goodness: 551658480,00
+Worst goodness: 955620726,00
+Average goodness: 756559546,55
+Median goodness: 756518256,50
+
+Running soc-buzznet.txt-vuln-0.1-file with p=0.10, k=2024, max_iter=11, N=101163, func=highdegree and filling=fillToKVulnerable
+Average runtime over 11 iterations is: 34,36s
+Starting goodness: 972284167,00
+Best goodness: 521296959,00
+Worst goodness: 955620726,00
+Average goodness: 743521808,89
+Median goodness: 748289853,00
+
+Running soc-buzznet.txt-vuln-0.1-file with p=0.10, k=5059, max_iter=11, N=101163, func=highdegree and filling=fillToKVulnerable
+Average runtime over 11 iterations is: 46,44s
+Starting goodness: 972284167,00
+Best goodness: 473637726,00
+Worst goodness: 955620726,00
+Average goodness: 719760808,70
+Median goodness: 729941481,00
+
+Running soc-buzznet.txt-vuln-0.1-file with p=0.10, k=1012, max_iter=11, N=101163, func=vuln and filling=fillToKHighDegree
+Average runtime over 11 iterations is: 29,65s
+Starting goodness: 972284167,00
+Best goodness: 550099213,00
+Worst goodness: 870419789,00
+Average goodness: 713785418,64
+Median goodness: 718823691,50
+
+Running soc-buzznet.txt-vuln-0.1-file with p=0.10, k=2024, max_iter=11, N=101163, func=vuln and filling=fillToKHighDegree
+Average runtime over 11 iterations is: 35,53s
+Starting goodness: 972284167,00
+Best goodness: 523833340,00
+Worst goodness: 870419789,00
+Average goodness: 681435414,77
+Median goodness: 659827244,50
+
+Running soc-buzznet.txt-vuln-0.1-file with p=0.10, k=5059, max_iter=11, N=101163, func=vuln and filling=fillToKHighDegree
+Average runtime over 11 iterations is: 46,60s
+Starting goodness: 972284167,00
+Best goodness: 469567361,00
+Worst goodness: 870419789,00
+Average goodness: 611661237,42
+Median goodness: 648987001,00
+
+Running soc-buzznet.txt-vuln-0.1-file with p=0.10, k=1012, max_iter=11, N=101163, func=neigh and filling=fillToKHighDegree
+Average runtime over 11 iterations is: 29,86s
+Starting goodness: 972284167,00
+Best goodness: 568932280,00
+Worst goodness: 604040879,00
+Average goodness: 578537821,86
+Median goodness: 581015768,50
+
+Running soc-buzznet.txt-vuln-0.1-file with p=0.10, k=2024, max_iter=11, N=101163, func=neigh and filling=fillToKHighDegree
+Average runtime over 11 iterations is: 34,94s
+Starting goodness: 972284167,00
+Best goodness: 529014389,00
+Worst goodness: 604040879,00
+Average goodness: 558748084,82
+Median goodness: 556253739,50
+
+Running soc-buzznet.txt-vuln-0.1-file with p=0.10, k=5059, max_iter=11, N=101163, func=neigh and filling=fillToKHighDegree
+Average runtime over 11 iterations is: 41,58s
+Starting goodness: 972284167,00
+Best goodness: 460734293,00
+Worst goodness: 604040879,00
+Average goodness: 527788631,42
+Median goodness: 541582397,00
+
+Running soc-buzznet.txt-vuln-0.1-file with p=0.10, k=1012, max_iter=11, N=101163, func=random and filling=fillToKRandom
+Average runtime over 11 iterations is: 27,19s
+Starting goodness: 972284167,00
+Best goodness: 555233076,00
+Worst goodness: 954559504,00
+Average goodness: 750529294,45
+Median goodness: 756745780,50
+
+Running soc-buzznet.txt-vuln-0.1-file with p=0.10, k=2024, max_iter=11, N=101163, func=random and filling=fillToKRandom
+Average runtime over 11 iterations is: 34,77s
+Starting goodness: 972284167,00
+Best goodness: 523424697,00
+Worst goodness: 954559504,00
+Average goodness: 740777246,52
+Median goodness: 746410253,00
+
+Running soc-buzznet.txt-vuln-0.1-file with p=0.10, k=5059, max_iter=11, N=101163, func=random and filling=fillToKRandom
+Average runtime over 11 iterations is: 45,26s
+Starting goodness: 972284167,00
+Best goodness: 472493923,00
+Worst goodness: 954559504,00
+Average goodness: 717929465,08
+Median goodness: 732582041,00
+
+Running soc-delicious.txt-vuln-0.1-file with p=0.10, k=5362, max_iter=13, N=536108, func=highdegree and filling=fillToKVulnerable
+Average runtime over 13 iterations is: 111,55s
+Starting goodness: 27303707024,00
+Best goodness: 16272500332,00
+Worst goodness: 26503940388,00
+Average goodness: 21427389251,04
+Median goodness: 21398049611,00
+
+Running soc-delicious.txt-vuln-0.1-file with p=0.10, k=10723, max_iter=13, N=536108, func=highdegree and filling=fillToKVulnerable
+Average runtime over 13 iterations is: 119,23s
+Starting goodness: 27303707024,00
+Best goodness: 12867842887,00
+Worst goodness: 26503940388,00
+Average goodness: 20356979728,02
+Median goodness: 21022704514,00
+
+Running soc-delicious.txt-vuln-0.1-file with p=0.10, k=26806, max_iter=13, N=536108, func=highdegree and filling=fillToKVulnerable
+Average runtime over 13 iterations is: 132,32s
+Starting goodness: 27303707024,00
+Best goodness: 7844149303,00
+Worst goodness: 26503940388,00
+Average goodness: 18749276051,13
+Median goodness: 19345666383,00
+
+Running soc-delicious.txt-vuln-0.1-file with p=0.10, k=5362, max_iter=13, N=536108, func=random and filling=fillToKRandom
+Average runtime over 13 iterations is: 118,77s
+Starting goodness: 27303707024,00
+Best goodness: 16290563891,00
+Worst goodness: 26538495156,00
+Average goodness: 21459570403,58
+Median goodness: 21509793008,50
+
+Running soc-delicious.txt-vuln-0.1-file with p=0.10, k=10723, max_iter=13, N=536108, func=random and filling=fillToKRandom
+Average runtime over 13 iterations is: 119,67s
+Starting goodness: 27303707024,00
+Best goodness: 12754330041,00
+Worst goodness: 26538495156,00
+Average goodness: 20384628443,92
+Median goodness: 21097407177,00
+
+Running soc-delicious.txt-vuln-0.1-file with p=0.10, k=26806, max_iter=13, N=536108, func=random and filling=fillToKRandom
+Average runtime over 13 iterations is: 126,46s
+Starting goodness: 27303707024,00
+Best goodness: 7785079140,00
+Worst goodness: 26538495156,00
+Average goodness: 18770537493,29
+Median goodness: 19332633548,50
+
+Running soc-hamsterster.txt-vuln-0.1-file with p=0.10, k=22, max_iter=7, N=2129, func=highdegree and filling=fillToKVulnerable
+Average runtime over 7 iterations is: 0,05s
+Starting goodness: 387198,00
+Best goodness: 369858,00
+Worst goodness: 380929,00
+Average goodness: 374816,71
+Median goodness: 376782,00
+
+Running soc-hamsterster.txt-vuln-0.1-file with p=0.10, k=43, max_iter=7, N=2129, func=highdegree and filling=fillToKVulnerable
+Average runtime over 7 iterations is: 0,04s
+Starting goodness: 387198,00
+Best goodness: 354654,00
+Worst goodness: 380929,00
+Average goodness: 369788,71
+Median goodness: 371335,50
+
+Running soc-hamsterster.txt-vuln-0.1-file with p=0.10, k=107, max_iter=7, N=2129, func=highdegree and filling=fillToKVulnerable
+Average runtime over 7 iterations is: 0,06s
+Starting goodness: 387198,00
+Best goodness: 317244,00
+Worst goodness: 380929,00
+Average goodness: 358402,05
+Median goodness: 360653,00
+
+Running soc-hamsterster.txt-vuln-0.1-file with p=0.10, k=22, max_iter=7, N=2129, func=vuln and filling=fillToKHighDegree
+Average runtime over 7 iterations is: 0,05s
+Starting goodness: 387198,00
+Best goodness: 344326,00
+Worst goodness: 354005,00
+Average goodness: 349336,00
+Median goodness: 346851,00
+
+Running soc-hamsterster.txt-vuln-0.1-file with p=0.10, k=43, max_iter=7, N=2129, func=vuln and filling=fillToKHighDegree
+Average runtime over 7 iterations is: 0,04s
+Starting goodness: 387198,00
+Best goodness: 308815,00
+Worst goodness: 354005,00
+Average goodness: 331154,00
+Median goodness: 330604,50
+
+Running soc-hamsterster.txt-vuln-0.1-file with p=0.10, k=107, max_iter=7, N=2129, func=vuln and filling=fillToKHighDegree
+Average runtime over 7 iterations is: 0,04s
+Starting goodness: 387198,00
+Best goodness: 207634,00
+Worst goodness: 354005,00
+Average goodness: 291861,52
+Median goodness: 312545,00
+
+Running soc-hamsterster.txt-vuln-0.1-file with p=0.10, k=22, max_iter=7, N=2129, func=neigh and filling=fillToKHighDegree
+Average runtime over 7 iterations is: 0,05s
+Starting goodness: 387198,00
+Best goodness: 361211,00
+Worst goodness: 380932,00
+Average goodness: 373560,29
+Median goodness: 374117,50
+
+Running soc-hamsterster.txt-vuln-0.1-file with p=0.10, k=43, max_iter=7, N=2129, func=neigh and filling=fillToKHighDegree
+Average runtime over 7 iterations is: 0,03s
+Starting goodness: 387198,00
+Best goodness: 353339,00
+Worst goodness: 380932,00
+Average goodness: 367941,96
+Median goodness: 370929,00
+
+Running soc-hamsterster.txt-vuln-0.1-file with p=0.10, k=107, max_iter=7, N=2129, func=neigh and filling=fillToKHighDegree
+Average runtime over 7 iterations is: 0,04s
+Starting goodness: 387198,00
+Best goodness: 312864,00
+Worst goodness: 380932,00
+Average goodness: 353333,45
+Median goodness: 358124,00
+
+Running soc-hamsterster.txt-vuln-0.1-file with p=0.10, k=22, max_iter=7, N=2129, func=random and filling=fillToKRandom
+Average runtime over 7 iterations is: 0,07s
+Starting goodness: 387198,00
+Best goodness: 365787,00
+Worst goodness: 381539,00
+Average goodness: 373697,36
+Median goodness: 376985,50
+
+Running soc-hamsterster.txt-vuln-0.1-file with p=0.10, k=43, max_iter=7, N=2129, func=random and filling=fillToKRandom
+Average runtime over 7 iterations is: 0,05s
+Starting goodness: 387198,00
+Best goodness: 351950,00
+Worst goodness: 381539,00
+Average goodness: 369626,79
+Median goodness: 369363,00
+
+Running soc-hamsterster.txt-vuln-0.1-file with p=0.10, k=107, max_iter=7, N=2129, func=random and filling=fillToKRandom
+Average runtime over 7 iterations is: 0,05s
+Starting goodness: 387198,00
+Best goodness: 323906,00
+Worst goodness: 381539,00
+Average goodness: 358126,48
+Median goodness: 369066,00
+
+Running soc-twitter-follows.txt-vuln-0.1-file with p=0.10, k=4048, max_iter=12, N=404719, func=highdegree and filling=fillToKVulnerable
+Average runtime over 12 iterations is: 109,90s
+Starting goodness: 15560775739,00
+Best goodness: 505162941,00
+Worst goodness: 15096392729,00
+Average goodness: 7778894638,42
+Median goodness: 7772531119,50
+
+Running soc-twitter-follows.txt-vuln-0.1-file with p=0.10, k=8095, max_iter=12, N=404719, func=highdegree and filling=fillToKVulnerable
+Average runtime over 12 iterations is: 99,28s
+Starting goodness: 15560775739,00
+Best goodness: 62196085,00
+Worst goodness: 15096392729,00
+Average goodness: 7530240492,06
+Median goodness: 7511366791,00
+
+Running soc-twitter-follows.txt-vuln-0.1-file with p=0.10, k=20236, max_iter=12, N=404719, func=highdegree and filling=fillToKVulnerable
+Average runtime over 12 iterations is: 111,36s
+Starting goodness: 15560775739,00
+Best goodness: 1698999,00
+Worst goodness: 15096392729,00
+Average goodness: 7186699081,81
+Median goodness: 7305132634,00
+
+Running soc-twitter-follows.txt-vuln-0.1-file with p=0.10, k=4048, max_iter=12, N=404719, func=vuln and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 98,63s
+Starting goodness: 15560775739,00
+Best goodness: 479660017,00
+Worst goodness: 13773650751,00
+Average goodness: 7119961911,00
+Median goodness: 7146370773,50
+
+Running soc-twitter-follows.txt-vuln-0.1-file with p=0.10, k=8095, max_iter=12, N=404719, func=vuln and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 100,40s
+Starting goodness: 15560775739,00
+Best goodness: 54477403,00
+Worst goodness: 13773650751,00
+Average goodness: 6556961526,77
+Median goodness: 6128197338,00
+
+Running soc-twitter-follows.txt-vuln-0.1-file with p=0.10, k=20236, max_iter=12, N=404719, func=vuln and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 107,53s
+Starting goodness: 15560775739,00
+Best goodness: 1728519,00
+Worst goodness: 13773650751,00
+Average goodness: 5537317710,19
+Median goodness: 6027693938,50
+
+Running soc-twitter-follows.txt-vuln-0.1-file with p=0.10, k=4048, max_iter=12, N=404719, func=neigh and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 94,90s
+Starting goodness: 15560775739,00
+Best goodness: 2919682834,00
+Worst goodness: 4081896946,00
+Average goodness: 3500254715,46
+Median goodness: 3390338527,00
+
+Running soc-twitter-follows.txt-vuln-0.1-file with p=0.10, k=8095, max_iter=12, N=404719, func=neigh and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 100,05s
+Starting goodness: 15560775739,00
+Best goodness: 670917883,00
+Worst goodness: 4081896946,00
+Average goodness: 2184646337,27
+Median goodness: 1971371311,50
+
+Running soc-twitter-follows.txt-vuln-0.1-file with p=0.10, k=20236, max_iter=12, N=404719, func=neigh and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 110,67s 
+Starting goodness: 15560775739,00 
+Best goodness: 12129109,00 
+Worst goodness: 4081896946,00 
+Average goodness: 1464743995,88 
+Median goodness: 952753450,00 
+
+Running soc-wiki-Vote.txt-vuln-0.1-file with p=0.10, k=9, max_iter=6, N=889, func=highdegree and filling=fillToKVulnerable
+Average runtime over 6 iterations is: 0,02s 
+Starting goodness: 75115,00 
+Best goodness: 70549,00 
+Worst goodness: 74314,00 
+Average goodness: 72502,58 
+Median goodness: 72431,50 
+
+Running soc-wiki-Vote.txt-vuln-0.1-file with p=0.10, k=18, max_iter=6, N=889, func=highdegree and filling=fillToKVulnerable
+Average runtime over 6 iterations is: 0,01s 
+Starting goodness: 75115,00 
+Best goodness: 69019,00 
+Worst goodness: 74314,00 
+Average goodness: 71540,67 
+Median goodness: 71295,50 
+
+Running soc-wiki-Vote.txt-vuln-0.1-file with p=0.10, k=45, max_iter=6, N=889, func=highdegree and filling=fillToKVulnerable
+Average runtime over 6 iterations is: 0,01s 
+Starting goodness: 75115,00 
+Best goodness: 59393,00 
+Worst goodness: 74314,00 
+Average goodness: 68788,61 
+Median goodness: 70909,50 
+
+Running soc-wiki-Vote.txt-vuln-0.1-file with p=0.10, k=9, max_iter=6, N=889, func=vuln and filling=fillToKHighDegree
+Average runtime over 6 iterations is: 0,01s 
+Starting goodness: 75115,00 
+Best goodness: 66999,00 
+Worst goodness: 67159,00 
+Average goodness: 67092,33 
+Median goodness: 66999,00 
+
+Running soc-wiki-Vote.txt-vuln-0.1-file with p=0.10, k=18, max_iter=6, N=889, func=vuln and filling=fillToKHighDegree
+Average runtime over 6 iterations is: 0,01s 
+Starting goodness: 75115,00 
+Best goodness: 58503,00 
+Worst goodness: 67159,00 
+Average goodness: 63010,67 
+Median goodness: 63079,50 
+
+Running soc-wiki-Vote.txt-vuln-0.1-file with p=0.10, k=45, max_iter=6, N=889, func=vuln and filling=fillToKHighDegree
+Average runtime over 6 iterations is: 0,01s 
+Starting goodness: 75115,00 
+Best goodness: 34657,00 
+Worst goodness: 67159,00 
+Average goodness: 53787,22 
+Median goodness: 58858,00 
+
+Running soc-wiki-Vote.txt-vuln-0.1-file with p=0.10, k=9, max_iter=6, N=889, func=neigh and filling=fillToKHighDegree
+Average runtime over 6 iterations is: 0,02s 
+Starting goodness: 75115,00 
+Best goodness: 68474,00 
+Worst goodness: 73171,00 
+Average goodness: 71146,58 
+Median goodness: 71511,50 
+
+Running soc-wiki-Vote.txt-vuln-0.1-file with p=0.10, k=18, max_iter=6, N=889, func=neigh and filling=fillToKHighDegree
+Average runtime over 6 iterations is: 0,01s 
+Starting goodness: 75115,00 
+Best goodness: 66706,00 
+Worst goodness: 73171,00 
+Average goodness: 69799,04 
+Median goodness: 70683,50 
+
+Running soc-wiki-Vote.txt-vuln-0.1-file with p=0.10, k=45, max_iter=6, N=889, func=neigh and filling=fillToKHighDegree
+Average runtime over 6 iterations is: 0,02s 
+Starting goodness: 75115,00 
+Best goodness: 55451,00 
+Worst goodness: 73171,00 
+Average goodness: 65888,94 
+Median goodness: 67507,00 
+
+Running soc-wiki-Vote.txt-vuln-0.1-file with p=0.10, k=9, max_iter=6, N=889, func=random and filling=fillToKRandom
+Average runtime over 6 iterations is: 0,02s 
+Starting goodness: 75115,00 
+Best goodness: 69845,00 
+Worst goodness: 74225,00 
+Average goodness: 71749,42 
+Median goodness: 72775,00 
+
+Running soc-wiki-Vote.txt-vuln-0.1-file with p=0.10, k=18, max_iter=6, N=889, func=random and filling=fillToKRandom
+Average runtime over 6 iterations is: 0,01s 
+Starting goodness: 75115,00 
+Best goodness: 66460,00 
+Worst goodness: 74225,00 
+Average goodness: 70644,75 
+Median goodness: 69899,50 
+
+Running soc-wiki-Vote.txt-vuln-0.1-file with p=0.10, k=45, max_iter=6, N=889, func=random and filling=fillToKRandom
+Average runtime over 6 iterations is: 0,01s 
+Starting goodness: 75115,00 
+Best goodness: 58854,00 
+Worst goodness: 74225,00 
+Average goodness: 68206,78 
+Median goodness: 69825,50 
+
+Running soc-youtube-snap.txt-vuln-0.1-file with p=0.10, k=11349, max_iter=13, N=1134890, func=highdegree and filling=fillToKVulnerable
+Average runtime over 13 iterations is: 285,24s 
+Starting goodness: 122358619304,00 
+Best goodness: 69074908287,00 
+Worst goodness: 118515989104,00 
+Average goodness: 93867119802,96 
+Median goodness: 93784510886,00 
+
+Running soc-youtube-snap.txt-vuln-0.1-file with p=0.10, k=22698, max_iter=13, N=1134890, func=highdegree and filling=fillToKVulnerable
+Average runtime over 13 iterations is: 286,89s 
+Starting goodness: 122358619304,00 
+Best goodness: 56351592560,00 
+Worst goodness: 118515989104,00 
+Average goodness: 89576903843,65 
+Median goodness: 91670275510,00 
+
+Running soc-youtube-snap.txt-vuln-0.1-file with p=0.10, k=56745, max_iter=13, N=1134890, func=highdegree and filling=fillToKVulnerable
+Average runtime over 13 iterations is: 300,25s 
+Starting goodness: 122358619304,00 
+Best goodness: 36993466670,00 
+Worst goodness: 118515989104,00 
+Average goodness: 82991820996,76 
+Median goodness: 85242771249,00 
+
+Running soc-youtube-snap.txt-vuln-0.1-file with p=0.10, k=11349, max_iter=13, N=1134890, func=vuln and filling=fillToKHighDegree
+Average runtime over 13 iterations is: 249,44s 
+Starting goodness: 122358619304,00 
+Best goodness: 65911238106,00 
+Worst goodness: 108244024527,00 
+Average goodness: 87152557849,31 
+Median goodness: 87176473525,00 
+
+Running soc-youtube-snap.txt-vuln-0.1-file with p=0.10, k=22698, max_iter=13, N=1134890, func=vuln and filling=fillToKHighDegree
+Average runtime over 13 iterations is: 249,82s 
+Starting goodness: 122358619304,00 
+Best goodness: 51320474834,00 
+Worst goodness: 108244024527,00 
+Average goodness: 79977455931,87 
+Median goodness: 79448240740,00 
+
+Running soc-youtube-snap.txt-vuln-0.1-file with p=0.10, k=56745, max_iter=13, N=1134890, func=vuln and filling=fillToKHighDegree
+Average runtime over 13 iterations is: 262,75s 
+Starting goodness: 122358619304,00 
+Best goodness: 28818925346,00 
+Worst goodness: 108244024527,00 
+Average goodness: 67340870173,56 
+Median goodness: 72883198464,50 
+
+Running soc-youtube-snap.txt-vuln-0.1-file with p=0.10, k=11349, max_iter=13, N=1134890, func=neigh and filling=fillToKHighDegree
+Average runtime over 13 iterations is: 269,78s 
+Starting goodness: 122358619304,00 
+Best goodness: 75276667821,00 
+Worst goodness: 78697004646,00 
+Average goodness: 76896451494,23 
+Median goodness: 77249841179,50 
+
+Running soc-youtube-snap.txt-vuln-0.1-file with p=0.10, k=22698, max_iter=13, N=1134890, func=neigh and filling=fillToKHighDegree
+Average runtime over 13 iterations is: 243,03s 
+Starting goodness: 122358619304,00 
+Best goodness: 61132343154,00 
+Worst goodness: 78697004646,00 
+Average goodness: 69639708301,54 
+Median goodness: 69487466652,50 
+
+Running soc-youtube-snap.txt-vuln-0.1-file with p=0.10, k=56745, max_iter=13, N=1134890, func=neigh and filling=fillToKHighDegree
+Average runtime over 13 iterations is: 252,72s 
+Starting goodness: 122358619304,00 
+Best goodness: 40076524096,00 
+Worst goodness: 78697004646,00 
+Average goodness: 59989495916,21 
+Median goodness: 62792155531,50 
+
+Running soc-youtube-snap.txt-vuln-0.1-file with p=0.10, k=11349, max_iter=13, N=1134890, func=random and filling=fillToKRandom
+Average runtime over 13 iterations is: 270,31s
+Starting goodness: 122358619304,00
+Best goodness: 68842702039,00
+Worst goodness: 118436363546,00
+Average goodness: 93838487902,77
+Median goodness: 93804826976,00
+
+Running soc-youtube-snap.txt-vuln-0.1-file with p=0.10, k=22698, max_iter=13, N=1134890, func=random and filling=fillToKRandom
+Average runtime over 13 iterations is: 269,18s
+Starting goodness: 122358619304,00
+Best goodness: 56216778596,00
+Worst goodness: 118436363546,00
+Average goodness: 89616447989,23
+Median goodness: 91733041574,00
+
+Running soc-youtube-snap.txt-vuln-0.1-file with p=0.10, k=56745, max_iter=13, N=1134890, func=random and filling=fillToKRandom
+Average runtime over 13 iterations is: 278,67s
+Starting goodness: 122358619304,00
+Best goodness: 36757339309,00
+Worst goodness: 118436363546,00
+Average goodness: 83020106591,86
+Median goodness: 85418699623,00
+
+Running tech-RL-caida.txt-vuln-0.1-file with p=0.10, k=1910, max_iter=12, N=190914, func=highdegree and filling=fillToKVulnerable
+Average runtime over 12 iterations is: 32,32s
+Starting goodness: 3462668309,00
+Best goodness: 3232207392,00
+Worst goodness: 3374139696,00
+Average goodness: 3309371600,79
+Median goodness: 3301503943,00
+
+Running tech-RL-caida.txt-vuln-0.1-file with p=0.10, k=3819, max_iter=12, N=190914, func=highdegree and filling=fillToKVulnerable
+Average runtime over 12 iterations is: 32,28s
+Starting goodness: 3462668309,00
+Best goodness: 3024181821,00
+Worst goodness: 3374139696,00
+Average goodness: 3238497775,48
+Median goodness: 3259524461,50
+
+Running tech-RL-caida.txt-vuln-0.1-file with p=0.10, k=9546, max_iter=12, N=190914, func=highdegree and filling=fillToKVulnerable
+Average runtime over 12 iterations is: 39,21s
+Starting goodness: 3462668309,00
+Best goodness: 2525864134,00
+Worst goodness: 3374139696,00
+Average goodness: 3083452357,50
+Median goodness: 3163506904,50
+
+Running tech-RL-caida.txt-vuln-0.1-file with p=0.10, k=1910, max_iter=12, N=190914, func=vuln and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 31,54s
+Starting goodness: 3462668309,00
+Best goodness: 3068245879,00
+Worst goodness: 3078441322,00
+Average goodness: 3074679252,00
+Median goodness: 3075069277,00
+
+Running tech-RL-caida.txt-vuln-0.1-file with p=0.10, k=3819, max_iter=12, N=190914, func=vuln and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 31,62s
+Starting goodness: 3462668309,00
+Best goodness: 2666974561,00
+Worst goodness: 3078441322,00
+Average goodness: 2882319787,38
+Median goodness: 2870692270,50
+
+Running tech-RL-caida.txt-vuln-0.1-file with p=0.10, k=9546, max_iter=12, N=190914, func=vuln and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 36,17s
+Starting goodness: 3462668309,00
+Best goodness: 1596976011,00
+Worst goodness: 3078441322,00
+Average goodness: 2458248212,58
+Median goodness: 2695550028,50
+
+Running tech-RL-caida.txt-vuln-0.1-file with p=0.10, k=1910, max_iter=12, N=190914, func=neigh and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 32,61s
+Starting goodness: 3462668309,00
+Best goodness: 3238605881,00
+Worst goodness: 3301897293,00
+Average goodness: 3275156517,08
+Median goodness: 3282252510,50
+
+Running tech-RL-caida.txt-vuln-0.1-file with p=0.10, k=3819, max_iter=12, N=190914, func=neigh and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 33,25s
+Starting goodness: 3462668309,00
+Best goodness: 3067312806,00
+Worst goodness: 3301897293,00
+Average goodness: 3188447564,56
+Median goodness: 3160269256,50
+
+Running tech-RL-caida.txt-vuln-0.1-file with p=0.10, k=9546, max_iter=12, N=190914, func=neigh and filling=fillToKHighDegree
+Average runtime over 12 iterations is: 40,60s
+Starting goodness: 3462668309,00
+Best goodness: 2586500101,00
+Worst goodness: 3301897293,00
+Average goodness: 3000522288,31
+Median goodness: 3104095753,50
+
+Running tech-RL-caida.txt-vuln-0.1-file with p=0.10, k=1910, max_iter=12, N=190914, func=random and filling=fillToKRandom
+Average runtime over 12 iterations is: 31,32s
+Starting goodness: 3462668309,00
+Best goodness: 3203232084,00
+Worst goodness: 3371482846,00
+Average goodness: 3294918097,38
+Median goodness: 3287730388,50
+
+Running tech-RL-caida.txt-vuln-0.1-file with p=0.10, k=3819, max_iter=12, N=190914, func=random and filling=fillToKRandom
+Average runtime over 12 iterations is: 31,97s
+Starting goodness: 3462668309,00
+Best goodness: 3050706901,00
+Worst goodness: 3371482846,00
+Average goodness: 3230842935,54
+Median goodness: 3265157491,50
+
+Running tech-RL-caida.txt-vuln-0.1-file with p=0.10, k=9546, max_iter=12, N=190914, func=random and filling=fillToKRandom
+Average runtime over 12 iterations is: 37,89s
+Starting goodness: 3462668309,00
+Best goodness: 2522054053,00
+Worst goodness: 3371482846,00
+Average goodness: 3077977966,13
+Median goodness: 3170750285,00
+
+Running soc-twitter-follows.txt-vuln-0.1-file with p=0.10, k=4048, max_iter=12, N=404719, func=random and filling=fillToKRandom
+Average runtime over 12 iterations is: 98,50s
+Starting goodness: 15560775739,00
+Best goodness: 517583419,00
+Worst goodness: 15068624459,00
+Average goodness: 7776124522,33
+Median goodness: 7786021802,00
+
+Running soc-twitter-follows.txt-vuln-0.1-file with p=0.10, k=8095, max_iter=12, N=404719, func=random and filling=fillToKRandom
+Average runtime over 12 iterations is: 100,95s
+Starting goodness: 15560775739,00
+Best goodness: 58397300,00
+Worst goodness: 15068624459,00
+Average goodness: 7534022921,04
+Median goodness: 7521109478,50
+
+Running soc-twitter-follows.txt-vuln-0.1-file with p=0.10, k=20236, max_iter=12, N=404719, func=random and filling=fillToKRandom
+Average runtime over 12 iterations is: 95,87s
+Starting goodness: 15560775739,00
+Best goodness: 1661655,00
+Worst goodness: 15068624459,00
+Average goodness: 7185453344,63
+Median goodness: 7320943862,50
